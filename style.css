@@ -1,0 +1,12 @@
+body {   
+      color: #ffffff;  
+      background-color: #000000;   
+      font-family: 'digital-7', sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    position: absolute;  
+    z-index: 700;
+    margin: 90px;      
+}
